@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>java.lang.Boolean</OriginalElement>
+  <nodes>
+    <node x="130.99999999999997" y="357.0">java.lang.Boolean</node>
+    <node x="0.0" y="0.0">java.lang.Object</node>
+    <node x="356.0" y="126.5">java.lang.Comparable</node>
+    <node x="203.99999999999997" y="139.5">java.io.Serializable</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="java.lang.Boolean" target="java.lang.Comparable" relationship="REALIZATION">
+      <point x="68.0" y="-188.0" />
+      <point x="335.0" y="337.0" />
+      <point x="356.0" y="337.0" />
+      <point x="356.0" y="327.0" />
+      <point x="442.0" y="327.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="java.lang.Boolean" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="-68.0" y="-188.0" />
+      <point x="198.99999999999997" y="337.0" />
+      <point x="92.0" y="337.0" />
+      <point x="0.0" y="153.5" />
+    </edge>
+    <edge source="java.lang.Boolean" target="java.io.Serializable" relationship="REALIZATION">
+      <point x="68.0" y="-188.0" />
+      <point x="335.0" y="337.0" />
+      <point x="356.0" y="337.0" />
+      <point x="356.0" y="327.0" />
+      <point x="270.0" y="327.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="264.0" y="366.5" />
+  <SelectedNodes>
+    <node>java.lang.Boolean</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
